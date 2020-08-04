@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there
+It's me MikaDev
+I make stupid programs...
+:cat:
 
 <!--
 **MikaDevy/mikadevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
